@@ -1,4 +1,5 @@
-### Hi there I'm Lukas 👋
+### Hi there I'm Lukas
+#### Senior Full-Stack Developer @ Fujitsu Connected Services👋
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="./images/linkedin.png" />](https://www.linkedin.com/in/lukas-ochsendorf/)
